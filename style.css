@@ -1,0 +1,70 @@
+body {
+    background-image: url('/assets/Gemini_Generated_Image_814x0a814x0a814x.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+main{
+    background-color: rgba(75, 75, 75, 0.315);
+    
+}
+h1,h2{
+    font-family: 'DM Sans', Mono;
+
+}
+header{
+    color: whitesmoke;
+    text-align: center;
+}
+
+#marciocavjr {
+width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  list-style: none;
+  padding: 0;
+}
+
+.site {
+  width: 250px;
+  text-align: center;
+  margin-bottom: 15px;
+  
+  border: 2px solid #e7e7e7;
+  border-radius: 8px;
+  padding: 10px;
+  
+  transition: all 0.3s;
+}
+
+.site button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+.site button a {
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bold;
+  display: block;
+ 
+}
+
+.site:hover {
+  background-color: #f0f8ff;
+  border-color: #007bff;
+}
+
+.site button a:hover {
+  color: #007bff;
+}
