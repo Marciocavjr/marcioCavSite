@@ -18,3 +18,20 @@ O projeto foi construído utilizando as seguintes tecnologias:
 ## 📁 Estrutura do Projeto
 
 A estrutura de pastas e arquivos é a seguinte:
+- `index.html`: Contém a estrutura principal da página e os links.
+- `style.css`: Contém a folha de estilo para a personalização visual.
+- `assets/`: Pasta para imagens e outros recursos visuais.
+
+## 🔗 Acessar a Página
+
+Você pode visualizar a página diretamente clicando no seguinte link:
+[Link para a página]
+*(Substitua esta linha pelo link de hospedagem do seu projeto, como GitHub Pages, Vercel, etc.)*
+
+## 🤝 Contribuições
+
+Este é um projeto pessoal. No entanto, sinta-se à vontade para fazer um "fork" do projeto, experimentar e adaptá-lo para seus próprios fins.
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT. Para mais detalhes, veja o arquivo `LICENSE` (se aplicável).
